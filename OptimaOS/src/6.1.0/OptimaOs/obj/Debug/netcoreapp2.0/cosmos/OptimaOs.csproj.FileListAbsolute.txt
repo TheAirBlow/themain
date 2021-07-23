@@ -1,0 +1,9 @@
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\bin\Debug\netcoreapp2.0\cosmos\OptimaOs.deps.json
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\bin\Debug\netcoreapp2.0\cosmos\OptimaOs.dll
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\bin\Debug\netcoreapp2.0\cosmos\OptimaOs.pdb
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.csprojAssemblyReference.cache
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.AssemblyInfoInputs.cache
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.AssemblyInfo.cs
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.csproj.CoreCompileInputs.cache
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.dll
+C:\Users\Андрей Стекольников\source\repos\OptimaOs\OptimaOs\obj\Debug\netcoreapp2.0\cosmos\OptimaOs.pdb
